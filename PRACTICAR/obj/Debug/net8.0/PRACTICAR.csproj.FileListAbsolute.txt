@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\PRACTICAR\PRACTICAR\bin\Debug\net8.0\PRACTICAR.exe
+C:\Users\Administrator\source\repos\PRACTICAR\PRACTICAR\bin\Debug\net8.0\PRACTICAR.deps.json
+C:\Users\Administrator\source\repos\PRACTICAR\PRACTICAR\bin\Debug\net8.0\PRACTICAR.runtimeconfig.json
+C:\Users\Administrator\source\repos\PRACTICAR\PRACTICAR\bin\Debug\net8.0\PRACTICAR.dll
+C:\Users\Administrator\source\repos\PRACTICAR\PRACTICAR\bin\Debug\net8.0\PRACTICAR.pdb
+C:\Users\Administrator\source\repos\PRACTICAR\PRACTICAR\obj\Debug\net8.0\PRACTICAR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\PRACTICAR\PRACTICAR\obj\Debug\net8.0\PRACTICAR.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\PRACTICAR\PRACTICAR\obj\Debug\net8.0\PRACTICAR.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\PRACTICAR\PRACTICAR\obj\Debug\net8.0\PRACTICAR.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\PRACTICAR\PRACTICAR\obj\Debug\net8.0\PRACTICAR.dll
+C:\Users\Administrator\source\repos\PRACTICAR\PRACTICAR\obj\Debug\net8.0\refint\PRACTICAR.dll
+C:\Users\Administrator\source\repos\PRACTICAR\PRACTICAR\obj\Debug\net8.0\PRACTICAR.pdb
+C:\Users\Administrator\source\repos\PRACTICAR\PRACTICAR\obj\Debug\net8.0\PRACTICAR.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\PRACTICAR\PRACTICAR\obj\Debug\net8.0\ref\PRACTICAR.dll

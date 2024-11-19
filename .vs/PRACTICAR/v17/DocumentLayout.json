@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\PRACTICAR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D412C73-0650-4D22-8DF3-0E7B154DE206}|PRACTICAR\\PRACTICAR.csproj|c:\\users\\administrator\\source\\repos\\practicar\\practicar\\datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D412C73-0650-4D22-8DF3-0E7B154DE206}|PRACTICAR\\PRACTICAR.csproj|solutionrelative:practicar\\datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D412C73-0650-4D22-8DF3-0E7B154DE206}|PRACTICAR\\PRACTICAR.csproj|c:\\users\\administrator\\source\\repos\\practicar\\practicar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D412C73-0650-4D22-8DF3-0E7B154DE206}|PRACTICAR\\PRACTICAR.csproj|solutionrelative:practicar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D412C73-0650-4D22-8DF3-0E7B154DE206}|PRACTICAR\\PRACTICAR.csproj|c:\\users\\administrator\\source\\repos\\practicar\\practicar\\practicar.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2D412C73-0650-4D22-8DF3-0E7B154DE206}|PRACTICAR\\PRACTICAR.csproj|solutionrelative:practicar\\practicar.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PRACTICAR",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\PRACTICAR\\PRACTICAR\\PRACTICAR.csproj",
+              "RelativeDocumentMoniker": "PRACTICAR\\PRACTICAR.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\PRACTICAR\\PRACTICAR\\PRACTICAR.csproj",
+              "RelativeToolTip": "PRACTICAR\\PRACTICAR.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-19T06:05:07.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Datos.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\PRACTICAR\\PRACTICAR\\Datos.cs",
+              "RelativeDocumentMoniker": "PRACTICAR\\Datos.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\PRACTICAR\\PRACTICAR\\Datos.cs",
+              "RelativeToolTip": "PRACTICAR\\Datos.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAkwEYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T04:30:13.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\PRACTICAR\\PRACTICAR\\Program.cs",
+              "RelativeDocumentMoniker": "PRACTICAR\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\PRACTICAR\\PRACTICAR\\Program.cs",
+              "RelativeToolTip": "PRACTICAR\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T04:25:58.334Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
